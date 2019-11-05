@@ -1,0 +1,6 @@
+Statement="Twnikle Twinkle, little stars,\t\t How I wonder what you are!"
+line1="Up above the world so high,"
+Line2= "Like a diamond in the sky"
+print(Statement)
+print("\n"line1"\n"line2"\n")
+print(Statement)

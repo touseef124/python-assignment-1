@@ -1,0 +1,2 @@
+version=(Mujhy nhi pata)
+print("your python version is"version)
